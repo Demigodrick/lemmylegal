@@ -36,7 +36,7 @@ hero:
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "/docs/quickstart/#create-a-new-lotus-docs-site"
+    url: "/docs/quickstart/"
   cta2Button:
     icon: construction
     btnText: "In Development"
@@ -79,7 +79,7 @@ features:
 
     - title: Search by DocSearch
       icon: search
-      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete. TBC.
+      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete.
 
     - title: Multilingual Support
       icon: translate
